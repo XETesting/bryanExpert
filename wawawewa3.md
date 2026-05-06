@@ -1,12 +1,36 @@
-# Wawawewa3
+# Hello World
 
-This is new content created by Grok AI assistant.
+This file contains hello world code examples in various programming languages.
 
-**Date:** May 06, 2026
+## Python
 
-## Features
-- Created remotely
-- Markdown format
-- Fun name
+```python
+print("Hello, World!")
+```
 
-> Wawawewa! Borat style.
+## JavaScript
+
+```javascript
+console.log("Hello, World!");
+```
+
+## C
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
+## Java
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
