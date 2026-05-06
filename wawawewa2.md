@@ -1,3 +1,11 @@
-# wawawewa2.md
+# Hello World Code
 
-This is new content created for the file.
+## Python
+```python
+print("Hello, World!")
+```
+
+## JavaScript
+```javascript
+console.log("Hello, World!");
+```
