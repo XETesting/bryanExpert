@@ -1,3 +1,10 @@
-# Wawawewa
+# Hello World
 
-This is a new file created via Grok.
+```python
+def hello_world():
+    print("Hello, World!")
+
+hello_world()
+```
+
+This is a Hello World example in Python, presented in Markdown.
